@@ -3,3 +3,4 @@ jest_cache/
 coverage/
 dist/
 ts-enum-util-*.tgz
+.idea
